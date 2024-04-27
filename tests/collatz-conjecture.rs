@@ -1,4 +1,4 @@
-use collatz_conjecture::*;
+use collatz_conjecture::collatz;
 
 #[test]
 fn test_1() {
